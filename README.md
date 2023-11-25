@@ -22,3 +22,31 @@ After training, visualize the model's performance using confusion matrices, ROC 
 
 ## Acknowledgements
 Special thanks to Kaggle and `lizwozsliz` for providing the `data-raiden-shogun` dataset which has been instrumental in the development of our AI model.
+
+## Results
+After training the model on the collected dataset, we achieved the following results:
+
+- **AI-Generated Artwork Classification**
+  - Precision: 98%
+  - Recall: 90%
+  - F1-score: 94%
+
+- **Human-Created Artwork Classification**
+  - Precision: 69%
+  - Recall: 92%
+  - F1-score: 79%
+
+- **Overall Model Performance**
+  - Accuracy: 91%
+  - Weighted Avg Precision: 92%
+  - Weighted Avg Recall: 91%
+  - Weighted Avg F1-score: 91%
+
+
+## Todo
+Moving forward, the project aims to:
+- Increase the dataset size for better model generalization.
+- Experiment with more complex models such as Convolutional Neural Networks (CNNs) for improved accuracy.
+- Implement additional features like image tagging and reverse image search for enhanced functionality.
+- Explore the possibility of real-time classification within a browser extension or a mobile app.
+
