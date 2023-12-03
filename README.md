@@ -1,4 +1,4 @@
-# AnimeImageScrapeNLearn
+# Raiden Shogun Origin Classifier
 
 ## Inspiration
 This project was inspired by the work done in the repository [Detecting AI-Generated Fake Images](https://github.com/nogibjj/Detecting-AI-Generated-Fake-Images) by nogibjj. The approach and methodologies explored  in this project provided valuable insights and formed a foundationd basis for the development of the Raiden Shogun Origin Classifier. We aimed to dbuild upon these idea and adapt them specifically for
