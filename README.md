@@ -1,6 +1,7 @@
-# Raiden Shogun Origin Classifier
-https://huggingface.co/spaces/Lizsory/Raiden-Shogun-Origin-Classifier
-https://huggingface.co/spaces/Lizsory/Raiden-Shogun-Origin-Classifier/tree/main
+# Raiden Shogun Origin Classifier👾
+
+- [Hugging Face space](https://huggingface.co/spaces/Lizsory/Raiden-Shogun-Origin-Classifier)
+- [Hugging Face Repo](https://huggingface.co/spaces/Lizsory/Raiden-Shogun-Origin-Classifier/tree/main)
 ## Inspiration
 This project was inspired by the work done in the repository [Detecting AI-Generated Fake Images](https://github.com/nogibjj/Detecting-AI-Generated-Fake-Images) by nogibjj. The approach and methodologies explored  in this project provided valuable insights and formed a foundationd basis for the development of the Raiden Shogun Origin Classifier. We aimed to dbuild upon these idea and adapt them specifically for
 distinguishing AI-generated and human-created images of Raiden Shogun, showcasing the practical applications of learning in the realm of image classification.
@@ -18,9 +19,11 @@ Data scraping is performed via the PixivBatchDownloader, which is configured to 
 ## Visualization and Analysis
 After training, visualize the model's performance using confusion matrices, ROC curves, and other relevant metrics. This will help in understanding the model's strengths and areas for improvement.
 
-## Results
+## Results🔮
 
 ![image](https://github.com/Lizosy/AnimeImageScrapeNLearn/assets/61643547/55e0e2db-458b-4c69-a5ed-783c26b5c2a2)
+
+
 
 After training the model on the collected dataset, we achieved the following results:
 
