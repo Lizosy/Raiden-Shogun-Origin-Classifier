@@ -50,7 +50,6 @@ After training the model on the collected dataset, we achieved the following res
 ## Todo
 Moving forward, the project aims to:
 - Increase the dataset size for better model generalization.
-- Experiment with more complex models such as Convolutional Neural Networks (CNNs) for improved accuracy.
 - Implement additional features like image tagging and reverse image search for enhanced functionality.
 - Explore the possibility of real-time classification within a browser extension or a mobile app.
 
